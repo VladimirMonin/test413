@@ -1,2 +1,4 @@
 .env
 мусор.txt
+.venv/
+.vscode/settings.json
